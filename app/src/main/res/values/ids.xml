@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvProduct" type="id"/>
+    <item name="tvQty" type="id"/>
+    <item name="tvPrice" type="id"/>
+</resources>

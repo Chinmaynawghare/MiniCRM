@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MiniCRM</string>
+
+    <!-- Add your other strings here -->
+    <string name="product_name">Product Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="save_order">Save Order</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="company">Company</string>
+</resources>
