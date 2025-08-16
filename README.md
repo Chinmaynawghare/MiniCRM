@@ -19,6 +19,15 @@ MiniCRM is a lightweight Customer Relationship Management (CRM) Android app desi
 - **Coroutines** – Asynchronous operations for smooth UI  
 - **Material Design** – Modern UI components  
 
+## Usage
+
+- Launch the app to view the list of customers.  
+- Tap the **+ button** to add a new customer.  
+- Select a customer to view details and their orders.  
+- Orders can be added, edited, or deleted.  
+- All changes are automatically synced with Firestore in real-time.  
+- A demo video is available in the `demo` folder. Users can download it to see the app in action.
+
 ## Installation
 
 1. Clone the repository:
